@@ -1,0 +1,11 @@
+{
+ "name": "Space Universe Empire TOKEN",
+ "website": "http://spaceuniverseempire.com/",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0x193e74ab029b9763152e087b5c2eed6599f6ed65",
+ "type": "BEP20",
+ "symbol": "SUE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x193e74ab029b9763152e087b5c2eed6599f6ed65"
+}
